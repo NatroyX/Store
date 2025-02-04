@@ -37,7 +37,7 @@ A modern, feature-rich e-commerce platform built with cutting-edge technologies.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/store.git
+   git clone https://github.com/NatroyX/store.git
    ```
 
 2. Navigate to the project directory:
